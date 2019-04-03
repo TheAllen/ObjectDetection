@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\allen\source\repos\opencvproject01\opencvproject01\main.cpp(43): warning C4002: too many arguments for function-like macro invocation 'log'
+  OpenCVproject01.vcxproj -> C:\Users\allen\source\repos\OpenCVproject01\x64\Debug\OpenCVproject01.exe
