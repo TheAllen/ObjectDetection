@@ -1,0 +1,5 @@
+# ObjectDetection
+
+## Technology
+- C++
+- OpenCV
